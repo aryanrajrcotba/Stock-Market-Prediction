@@ -35,7 +35,7 @@ Set Prediction Period: Use the slider to set the number of years to predict (1-4
 View Forecasted Data: See raw forecast data along with interactive plots.
 
 ## File Structure
-app.py: The main application code.
+Predictionf6.py: The main application code.
 README.md: Project description and instructions.
 
 ### Future Improvements
